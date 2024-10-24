@@ -16,13 +16,13 @@ public class Ejercicio2_13 {
 	//Pedir numeros.
 	
 	System.out.print("Introduce el numero de comida en KL que dispones: ");
-	comidaDiaria=teclado.nextInt();
+	comidaDiaria=teclado.nextFloat();
 	System.out.println("-----------------------------------------------------");
 	System.out.print("Introduce el numero de Animales: ");
-	numAnimales=teclado.nextInt();
+	numAnimales=teclado.nextFloat();
 	System.out.println("-----------------------------------------------------");
 	System.out.print("Introduce el numero de comida que consume cada animal: ");
-	kilosPorAnimal=teclado.nextInt();
+	kilosPorAnimal=teclado.nextFloat();
 	
 	//Hacer las medias.
 	
